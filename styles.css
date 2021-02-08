@@ -114,6 +114,7 @@ html {
     width: 45vw;
     box-shadow: 10px 0px 10px rgb(41, 41, 41);
     font-size: 1.5vh;
+    z-index: 10;
 
   }
   
