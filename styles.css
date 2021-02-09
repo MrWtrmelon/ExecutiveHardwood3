@@ -35,10 +35,6 @@ html {
     padding: 0px;
 }
 
-.headLeft button {
-    color: black;
-}
-
 .headMid {
     background-image: url(images/wtrmelonLogo.jpg);
     background-repeat: no-repeat;
@@ -133,7 +129,7 @@ html {
   .dropbtn {
     background-color: rgba(0,0,0,0);
     border: none;
-    color: white;
+    color: black;
     padding: 1px 10px;
     text-align: center;
     text-decoration: none;
