@@ -106,7 +106,6 @@ html {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color:  rgb(202, 202, 202);
     min-width: 160px;
     overflow: auto;
     transform: translate(-15px, -6px);
