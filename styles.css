@@ -30,13 +30,13 @@ html {
 }
 
 .header {
-    background-color: white;
+    background-color: black;
     height: 5vh;
     padding: 0px;
 }
 
 .headMid {
-    background-image: url(images/wtrmelonLogo.jpg);
+    background-image: url(images/ExecutiveHardwoodLogo.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -44,7 +44,7 @@ html {
 }
 
 .footer {
-    background-color: white;
+    background-color: black;
     height: 5vh;
     text-align: center;
     font-size: 0.7vh;
@@ -57,7 +57,7 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
-    color: white;
+    color: black;
     text-shadow: 2px 2px 5px black;
 }
 
@@ -126,7 +126,7 @@ html {
   .dropbtn {
     background-color: rgba(0,0,0,0);
     border: none;
-    color: black;
+    color: white;
     padding: 1px 10px;
     text-align: center;
     text-decoration: none;
